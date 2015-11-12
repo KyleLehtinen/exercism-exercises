@@ -10,7 +10,7 @@ fsharp
 go
 haskell
 java
-ife
+lfe
 lisp
 lua
 objective-c
@@ -21,4 +21,4 @@ ruby
 scala
 scheme
 swift
-
+rust
